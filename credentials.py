@@ -1,0 +1,4 @@
+consumer_key = "your_consumer_key_from_developer_twitter"
+consumer_secret = "your_consumer_secret_from_developer_twitter"
+acess_token = "your_acess_token_from_developer_twitter"
+acess_token_secret = "your_acess_token_secret_from_developer_twitter"
